@@ -10,7 +10,7 @@ Ther have two types:
   2. Active Attack. 
   ```
 #### 1. Passive Attack:
-````
+```
 This kind of attack , attackers can only read messages and monitoring the traffic.
 There have two types:
 1. Eavesdropping: This involves intercepting and listening to communications,
@@ -22,7 +22,7 @@ such as reading unencrypted emails or capturing data packets transmitted over a 
 
 #### Active attacks:
 
-
+```
  Active attacks involve attempts to alter, disrupt, or destroy data or services.
  They can be more noticeable and harmful than passive attacks. Key types include:
 
@@ -36,4 +36,4 @@ such as reading unencrypted emails or capturing data packets transmitted over a 
 
 5. **Session Hijacking**: Taking control of a user session after authentication.
 
-
+```
