@@ -26,14 +26,15 @@ such as reading unencrypted emails or capturing data packets transmitted over a 
  Active attacks involve attempts to alter, disrupt, or destroy data or services.
  They can be more noticeable and harmful than passive attacks. Key types include:
 
-1. **Modification**: Altering data during transmission (e.g., man-in-the-middle attacks).
+1. Modification: Altering data during transmission (e.g., man-in-the-middle attacks).
 
-2. **Denial of Service (DoS)**: Overloading a system to make it unavailable to users.
+2. Denial of Service (DoS): Overloading a system to make it unavailable to users.
 
-3. **Masquerading**: Pretending to be a legitimate user to gain unauthorized access.
+3. Masquerading: Pretending to be a legitimate user to gain unauthorized access.
 
-4. **Replay Attack**: Intercepting and re-sending valid data transmissions to trick systems.
+4. Replay Attack: Intercepting and re-sending valid data transmissions to trick systems.
 
-5. **Session Hijacking**: Taking control of a user session after authentication.
+5. Session Hijacking: Taking control of a user session after authentication.
 
 ```
+
