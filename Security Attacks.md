@@ -22,7 +22,7 @@ such as reading unencrypted emails or capturing data packets transmitted over a 
 
 #### Active attacks:
 
-```
+
  Active attacks involve attempts to alter, disrupt, or destroy data or services.
  They can be more noticeable and harmful than passive attacks. Key types include:
 
@@ -36,4 +36,4 @@ such as reading unencrypted emails or capturing data packets transmitted over a 
 
 5. **Session Hijacking**: Taking control of a user session after authentication.
 
-````
+
